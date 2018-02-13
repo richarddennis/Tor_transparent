@@ -2,7 +2,8 @@
 Tor configs
 
 
-``
+```sh
+
 Tor proxy instructions
 
 
@@ -51,4 +52,4 @@ chmod +x transparent_proxy.sh
 
 curl https://check.torproject.org/ | grep "Congratulations."
 
-``
+```
